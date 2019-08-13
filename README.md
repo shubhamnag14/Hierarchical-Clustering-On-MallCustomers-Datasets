@@ -22,5 +22,6 @@ Where there are no clear theoretical justifications for choice of linkage criter
 
 # Agglomerative versus divisive algorithms
 Hierarchical clustering typically works by sequentially merging similar clusters, as shown above. This is known as agglomerative hierarchical clustering. In theory, it can also be done by initially grouping all the observations into one cluster, and then successively splitting these clusters. This is known as divisive hierarchical clustering. Divisive clustering is rarely done in practice.
+ 
  ![alt text](2.jpg)
 
